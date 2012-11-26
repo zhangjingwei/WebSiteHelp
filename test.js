@@ -1,3 +1,4 @@
+/* 2012 11 26 test for git update */
 phantom.outputEncoding = 'System';
 
 var testResultDirectName = "test";	// 测试报告存放目录名
